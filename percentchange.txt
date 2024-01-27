@@ -1,0 +1,42 @@
+for friend summon
+
+Servant (Mark as Friend or non-limit in fate-servant-data)
+0* (Anra Mainiiu)	0.01%
+1*	9.89%
+2*	5.05%
+3*	1.05%
+4* (Altria Pendragon Lily, Habetrot)	0.10%
+only this 2 mark as 4star friend so 4star non-limit is not possible in friend summon
+
+EXP
+1*	8.86%
+2*	7.01%
+3*	5.05%
+4*	2.94%
+5*	0.99%
+
+Fou
+1*	4.04%
+2*	1.99%
+3*	0.98%
+
+CE
+1*	29.02%
+2*	16.52%
+3*	4.93%
+
+Command Code
+1*	0.98%
+2*	0.50%
+============================================================
+for StoryBanner (i dont have 4-5 star CE data so later)
+
+Servent
+3* 1%
+4* 3%
+5* 40%
+
+CE 
+3* 4%
+4* 12%
+5* 40%

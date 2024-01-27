@@ -1,0 +1,4 @@
+> Make Friend gacha work
+> Make StoryBanner work
+> add new page
+> maybe some fancy css idk
