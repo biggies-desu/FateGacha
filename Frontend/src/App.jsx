@@ -41,8 +41,8 @@ useEffect(() => {
   .catch(err => console.log(err))
 },[])
 useEffect(() => {
-  fetch('http://localhost:8081/ce_friendpoint')
-  .then(console.log("ce friendpoint data in"))
+  fetch('http://localhost:8081/ce_data')
+  .then(console.log("ce data in"))
   .then(res => res.json())
   .then(data => console.log(data))
   .catch(err => console.log(err))

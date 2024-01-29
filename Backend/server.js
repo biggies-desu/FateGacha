@@ -21,8 +21,8 @@ app.get('/', (re, res)=>
     return res.json("Backend loaded")
 })
 
-app.get('/ce_friendpoint',(req, res)=> {
-    const sql = "SELECT * FROM ce_friendpoint";
+app.get('/ce_data',(req, res)=> {
+    const sql = "SELECT * FROM ce_data";
     db.query(sql, (err,data)=>{
         if (err)    return res.json(err);
         return res.json(data)
