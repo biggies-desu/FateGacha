@@ -45,8 +45,8 @@ app.get('/exp_friendpoint',(req, res)=> {
     })
 })
 
-app.get('/fgo_servant_data',(req, res)=> {
-    const sql = "SELECT * FROM fgo_servant_data";
+app.get('/fate_servant_data',(req, res)=> {
+    const sql = "SELECT * FROM fate_servant_data";
     db.query(sql, (err,data)=>{
         if (err)    return res.json(err);
         return res.json(data)

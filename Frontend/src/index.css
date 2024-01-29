@@ -99,6 +99,8 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -10883,5 +10885,16 @@ textarea.form-control-lg {
   transform: translate(-50%, -50%);
 }
 
+.imagehalf {
+  transform: scale(0.5);
+}
+
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 20px;
+  left: 0;
+  text-align: center;
+}
 
 /*# sourceMappingURL=bootstrap.css.map */
