@@ -15,6 +15,7 @@ import 'bootstrap/dist/js/bootstrap.bundle'
 import $ from 'jquery';
 import Popper from 'popper.js';
 
+
 //using vite running in port 5173
 //npm run dev
 
@@ -43,6 +44,13 @@ useEffect(() => {
 useEffect(() => {
   fetch('http://localhost:8081/ce_data')
   .then(console.log("ce data in"))
+  .then(res => res.json())
+  .then(data => console.log(data))
+  .catch(err => console.log(err))
+},[])
+useEffect(() => {
+  fetch('http://localhost:8081/fou')
+  .then(console.log("fou"))
   .then(res => res.json())
   .then(data => console.log(data))
   .catch(err => console.log(err))
