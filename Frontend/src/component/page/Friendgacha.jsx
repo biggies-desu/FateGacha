@@ -5,6 +5,23 @@ import axios from 'axios';
 
 var friendgachadata = [] //for whole data array idk
 var friendgachadatarate = []
+var log = []
+var log_count = 0
+var last_result = 0
+function tillgetting_angra()
+{
+    while(last_result != 100)
+    {
+        Summon()
+        console.log(log)
+        console.log(log_count)
+    }
+    console.log("You rolled for "+log_count+" time(s) to get Angra Mainyu")
+    //some sort of reset
+    log_count = 0
+    last_result = 0
+    log = []
+}
 
 function Summon()
 {
@@ -24,6 +41,9 @@ function Summon()
     }
     console.log(summon_result)
     console.log(friendgachadatarate[summon_result])
+    log.push(friendgachadatarate[summon_result])
+    log_count++
+    last_result = summon_result
 }
 
 function Summon10()
@@ -124,6 +144,8 @@ function Friendgacha() {
                 }
             }
         }
+
+        console.log(friendgachadatarate)
         //some rate part (for example 2-star servant have more than one item so the odd should be 2star-servant rate / all 2star-servant item)
         //counting item
 
@@ -317,18 +339,43 @@ function Friendgacha() {
         console.log(error)
       });
 
+
+      myimage.onclick = function(e) {
+        var ratioX = e.target.naturalWidth / e.target.offsetWidth;
+        var ratioY = e.target.naturalHeight / e.target.offsetHeight;
+      
+        var domX = e.x + window.pageXOffset - e.target.offsetLeft;
+        var domY = e.y + window.pageYOffset - e.target.offsetTop;
+      
+        var imgX = Math.floor(domX * ratioX);
+        var imgY = Math.floor(domY * ratioY);
+
+        if((imgX >= 315 && imgX <= 450)&&(imgY >= 415 && imgY <= 460)) //x = 315-450 y = 415-460
+        {
+            console.log("Summon 1x")
+            Summon()
+        }
+        else if((imgX >= 510 && imgX <= 645)&&(imgY >= 415 && imgY <= 460)) //x = 315-450 y = 415-460
+        {
+            console.log("Summon 10x")
+            Summon10()
+        }
+      
+        //console.log(imgX, imgY);
+      };
+
       return () => {
         console.log('Component unmounted');
         // You can perform any cleanup here
       };
     }, []); // 👈️ empty dependencies array
     return (
-        <div class = 'center'><h2>Frined?</h2>
-        <button onClick={Summon} class = 'CENTER'>
-            summon 1x
-        </button>
-        <button onClick={Summon10} class = 'CENTER'>
-            summon 10x
+        <div>
+        <div class = 'center'>
+            <img id = 'myimage' src='/src/component/imgandsound/fp.jpg' alt='FP banner' className='imagehalfhalf'></img>
+    </div>
+    <button onClick={tillgetting_angra} class = 'bottom'>
+            Roll until getting Angra
         </button>
         <h1 id="Summon_Result"></h1>
     </div>

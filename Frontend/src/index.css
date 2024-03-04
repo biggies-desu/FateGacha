@@ -10885,8 +10885,20 @@ textarea.form-control-lg {
   transform: translate(-50%, -50%);
 }
 
+.bottom {
+  margin: 0;
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
 .imagehalf {
   transform: scale(0.5);
+}
+.imagehalfhalf {
+  transform: scale(0.35);
 }
 
 .footer {

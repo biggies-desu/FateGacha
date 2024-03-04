@@ -1,4 +1,4 @@
-﻿CE_ID,CE_Name,Rarity,CE_Summon
+CE_ID,CE_Name,Rarity,CE_Summon
 1,Tenacity,1-Star,Friend
 2,Meditation,1-Star,Friend
 3,Technique,1-Star,Friend
@@ -85,9 +85,9 @@
 84,Trueshot,3-Star,Limited
 85,Mikotto! Bride Training,4-Star,Limited
 86,Land of Shadow's Crimson Lotus,5-Star,Limited
-87,Craft Essence EXP Card: Mysterious Substance α,4-Star,Misc
-88,Craft Essence EXP Card: Mysterious Substance β,3-Star,Misc
-89,Ryūdō Temple,3-Star,Non-Limited
+87,Craft Essence EXP Card: Mysterious Substance ?,4-Star,Misc
+88,Craft Essence EXP Card: Mysterious Substance ?,3-Star,Misc
+89,Ry?d? Temple,3-Star,Non-Limited
 90,Magic Meter,3-Star,Friend
 91,Elixir of Love,3-Star,Non-Limited
 92,Storch Ritter,3-Star,Friend
@@ -102,13 +102,13 @@
 101,Heroic Spirit Portrait: Jeanne d'Arc,4-Star,Misc
 102,Heroic Spirit Portrait: Altera,4-Star,Misc
 103,Heroic Spirit Portrait: Arjuna,4-Star,Misc
-104,Heroic Spirit Portrait: Scáthach,4-Star,Misc
+104,Heroic Spirit Portrait: Sc�thach,4-Star,Misc
 105,Heroic Spirit Portrait: Ushiwakamaru,4-Star,Misc
 106,Heroic Spirit Portrait: Henry Jekyll & Hyde,4-Star,Misc
 107,Heroic Spirit Portrait: Mephistopheles,4-Star,Misc
 108,Heroic Spirit Portrait: Darius III,4-Star,Misc
 109,Valentine Dojo of Tears,3-Star,Limited
-110,Kitchen ☆ Patissiere,4-Star,Limited
+110,Kitchen ? Patissiere,4-Star,Limited
 111,Street Choco-Maid,5-Star,Limited
 112,Melty Sweetheart,5-Star,Event
 113,Chaldea Standard,4-Star,Event
@@ -137,7 +137,7 @@
 136,Mug Bonbon,4-Star,Event
 137,Treasure Chocolate,4-Star,Event
 138,Christmas Memories,4-Star,Event
-139,Merry☆Merry,4-Star,Event
+139,Merry?Merry,4-Star,Event
 140,Pumpkin Maiden,4-Star,Event
 141,Chocolat Jewel,4-Star,Event
 142,Ninefold Nested Confections,4-Star,Event
@@ -249,7 +249,7 @@
 248,Tamamo's Fan Club,4-Star,MaxBond
 249,Headband of Resolve,4-Star,MaxBond
 250,Calico Jack,4-Star,MaxBond
-251,Gazing Upon Dún Scáith,4-Star,MaxBond
+251,Gazing Upon D�n Sc�ith,4-Star,MaxBond
 252,Shooting Star of Prophecy,4-Star,MaxBond
 253,Hecate's Staff,4-Star,MaxBond
 254,Shapeless Island,4-Star,MaxBond
@@ -286,7 +286,7 @@
 285,Black Helmet,4-Star,MaxBond
 286,Commentarii de Bello Gallico,4-Star,MaxBond
 287,Rome,4-Star,MaxBond
-288,Encounter at Gojō Ōhashi,4-Star,MaxBond
+288,Encounter at Goj? ?hashi,4-Star,MaxBond
 289,Desecrated Mask of Death,4-Star,MaxBond
 290,Really Convenient,4-Star,MaxBond
 291,Pirates Party!,5-Star,Limited
@@ -313,9 +313,9 @@
 312,Kaleid Ruby,4-Star,Event
 313,Kaleid Sapphire,4-Star,Event
 314,Craft Essence EXP Card: Magical Ruby,3-Star,Misc
-315,Mugashiki - Shinkū Myōu,4-Star,MaxBond
-316,Amakusa Shirō's Rally Flag,4-Star,MaxBond
-317,Château d'If,4-Star,MaxBond
+315,Mugashiki - Shink? My?u,4-Star,MaxBond
+316,Amakusa Shir?'s Rally Flag,4-Star,MaxBond
+317,Ch�teau d'If,4-Star,MaxBond
 318,Infinite Pancakes,4-Star,MaxBond
 319,Red Jacket,4-Star,MaxBond
 320,Otherworldly Mystical Horse,4-Star,MaxBond
@@ -366,7 +366,7 @@
 365,Spiritron Portrait: Altera,4-Star,Misc
 366,Spiritron Portrait: Gilgamesh,4-Star,Misc
 367,Shinpen Kidoku Sake,4-Star,MaxBond
-368,Dōjigiri Yasutsuna,4-Star,MaxBond
+368,D?jigiri Yasutsuna,4-Star,MaxBond
 369,Ramesseum,4-Star,MaxBond
 370,Bone Sword (Nameless),4-Star,MaxBond
 371,Unit Golden Bear,4-Star,MaxBond
@@ -441,7 +441,7 @@
 440,I Prepared a Room for Us,4-Star,Event
 441,Silver Box,4-Star,Event
 442,Lapis Lazuli Bracelet,4-Star,Event
-443,Konbō (BBQ Flavour),4-Star,Event
+443,Konb? (BBQ Flavour),4-Star,Event
 444,Alternating Current-Style Lightning Cookies,4-Star,Event
 445,An Arrow Towards Karna,4-Star,Event
 446,Blue Sky Vanilla Mt.,4-Star,Event
@@ -455,7 +455,7 @@
 454,Exciting Splash VIP Ticket,4-Star,Event
 455,Silver Bullet,4-Star,Event
 456,Until We Reach the Ultimate Tastiness,4-Star,Event
-457,Chickpea Paste and…,4-Star,Event
+457,Chickpea Paste and�,4-Star,Event
 458,Sunset Earrings,4-Star,Event
 459,World End Castle,4-Star,Event
 460,Chocolate Driver,4-Star,Event
@@ -478,7 +478,7 @@
 477,Honey Choco with Medb-chan's Stamp,4-Star,Event
 478,Hero's Cup,4-Star,Event
 479,Sphinx Awlad,4-Star,Event
-480,Liberación Xocolatl,4-Star,Event
+480,Liberaci�n Xocolatl,4-Star,Event
 481,Hippogriff Plushie (1/1),4-Star,Event
 482,Cute Rabbit Choco,4-Star,Event
 483,Rider Belt Replica,4-Star,Event
@@ -515,7 +515,7 @@
 514,Super Nile Flowers,4-Star,Event
 515,Handmade Riceball,4-Star,Event
 516,Bag of 100 Pieces of Chocolate,4-Star,Event
-517,Manjū from Fūma Confectionery,4-Star,Event
+517,Manj? from F?ma Confectionery,4-Star,Event
 518,Black Black Kiss,4-Star,Event
 519,Multi-Purpose Cloth Hassan,4-Star,Event
 520,Sanson's Nutritious Chocolate Drink,4-Star,Event
@@ -524,7 +524,7 @@
 523,Golden Gold Set,4-Star,Event
 524,Scapegoat,4-Star,Event
 525,First-Aid Kit,4-Star,Event
-526,Mini Cú-chan,4-Star,Event
+526,Mini C�-chan,4-Star,Event
 527,Finest Genji Kashiwamochi,4-Star,Event
 528,Mysterious Hot Cocoa X,4-Star,Event
 529,Wild Boar Prized Headgear,4-Star,Event
@@ -545,7 +545,7 @@
 544,Devil's Bandana,4-Star,Event
 545,Freelancer,3-Star,Friend
 546,The Dynamics of an Asteroid,4-Star,MaxBond
-547,Kanshō & Bakuya (Handguns),4-Star,MaxBond
+547,Kansh? & Bakuya (Handguns),4-Star,MaxBond
 548,Beyond the Wilderness,4-Star,MaxBond
 549,108 Stars of Destiny,4-Star,MaxBond
 550,Talk of The Hot Sands,5-Star,Limited
@@ -587,7 +587,7 @@
 586,King Shahryar's Chambers,4-Star,MaxBond
 587,Palace of Luoyang,4-Star,MaxBond
 588,Military Sash of the War God,4-Star,MaxBond
-589,La Niña,4-Star,MaxBond
+589,La Ni�a,4-Star,MaxBond
 590,Chaldea Anniversary,5-Star,Limited
 591,Afternoon Party,4-Star,Limited
 592,Starlight Fest,3-Star,Limited
@@ -607,7 +607,7 @@
 606,Heroic Spirit Formal Dress: EMIYA,4-Star,Heroic_Spirit
 607,Heroic Spirit Formal Dress: Atalanta,4-Star,Heroic_Spirit
 608,Heroic Spirit Formal Dress: Euryale,4-Star,Heroic_Spirit
-609,Heroic Spirit Formal Dress: Scáthach,4-Star,Heroic_Spirit
+609,Heroic Spirit Formal Dress: Sc�thach,4-Star,Heroic_Spirit
 610,Heroic Spirit Formal Dress: Karna,4-Star,Heroic_Spirit
 611,Heroic Spirit Formal Dress: Artoria Pendragon,4-Star,Heroic_Spirit
 612,Heroic Spirit Formal Dress: Artoria Pendragon,4-Star,Heroic_Spirit
@@ -623,7 +623,7 @@
 622,Heroic Spirit Formal Dress: Leonardo Da Vinci,4-Star,Heroic_Spirit
 623,Heroic Spirit Formal Dress: Nitocris,4-Star,Heroic_Spirit
 624,Heroic Spirit Formal Dress: Gilgamesh,4-Star,Heroic_Spirit
-625,Heroic Spirit Formal Dress: Cú Chulainn,4-Star,Heroic_Spirit
+625,Heroic Spirit Formal Dress: C� Chulainn,4-Star,Heroic_Spirit
 626,Heroic Spirit Formal Dress: Mephistopheles,4-Star,Heroic_Spirit
 627,Heroic Spirit Formal Dress: Amadeus,4-Star,Heroic_Spirit
 628,Heroic Spirit Formal Dress: Assassin of Nightless City,4-Star,Heroic_Spirit
@@ -631,7 +631,7 @@
 630,Heroic Spirit Formal Dress: Vlad III,4-Star,Heroic_Spirit
 631,Heroic Spirit Formal Dress: Sakata Kintoki,4-Star,Heroic_Spirit
 632,Heroic Spirit Formal Dress: Nightingale,4-Star,Heroic_Spirit
-633,Heroic Spirit Formal Dress: Cú Chulainn,4-Star,Heroic_Spirit
+633,Heroic Spirit Formal Dress: C� Chulainn,4-Star,Heroic_Spirit
 634,Heroic Spirit Formal Dress: Heracles,4-Star,Heroic_Spirit
 635,Heroic Spirit Formal Dress: Frankenstein,4-Star,Heroic_Spirit
 636,Heroic Spirit Formal Dress: Berserker of El Dorado,4-Star,Heroic_Spirit
@@ -656,8 +656,8 @@
 655,Dive to Blue,5-Star,Event
 656,Mop of Selection,4-Star,MaxBond
 657,NYARF!,4-Star,MaxBond
-658,Kyōgoku,4-Star,MaxBond
-659,Prisma☆Illya Oath Under The Snow,4-Star,Misc
+658,Ky?goku,4-Star,MaxBond
+659,Prisma?Illya Oath Under The Snow,4-Star,Misc
 660,Battle Olympia,5-Star,Limited
 661,Divine Three-Legged Race,5-Star,Event
 662,Cheer for Master,5-Star,Event
@@ -675,9 +675,9 @@
 674,Divine Construct,3-Star,
 675,"Thoughts, Through Three Incarnations",4-Star,MaxBond
 676,Nine Celestial Moons,4-Star,MaxBond
-677,Jūmonji Yari,4-Star,MaxBond
+677,J?monji Yari,4-Star,MaxBond
 678,Double-Tiered Kasa,4-Star,MaxBond
-679,Danzō's Ox,4-Star,MaxBond
+679,Danz?'s Ox,4-Star,MaxBond
 680,Trick or Treatment,5-Star,Limited
 681,Phantom Night,4-Star,Limited
 682,From Wonderland,3-Star,Limited
@@ -701,7 +701,7 @@
 700,Blooming Flowers in Kur,4-Star,MaxBond
 701,The Rainbow Soaring Under the Night Sky,4-Star,MaxBond
 702,MOONLIGHT/LOSTROOM,4-Star,Misc
-703,Himuro no Tenchi ~7-nin no Saikyō Ijin-hen~,4-Star,Event
+703,Himuro no Tenchi ~7-nin no Saiky? Ijin-hen~,4-Star,Event
 704,New Beginning,5-Star,Limited
 705,Avalon Celebrate,4-Star,Limited
 706,Happiness is Like a Warm Puppy,3-Star,Misc
@@ -728,14 +728,14 @@
 727,Chunk of Chocolate with Growing Thorns,4-Star,Event
 728,Standing Hard-Boiled Eggs,4-Star,Event
 729,Melty Heart,4-Star,Event
-730,Sesshōin's First-Class Ohagi,4-Star,Event
-731,P Pudding à la Mode,4-Star,Event
+730,Sessh?in's First-Class Ohagi,4-Star,Event
+731,P Pudding � la Mode,4-Star,Event
 732,Sweet Devil Slot,4-Star,Event
 733,Premium Snack,4-Star,Event
 734,A Study in Scarlet,4-Star,Event
 735,My Favourite Pancake,4-Star,Event
 736,Ultra-Beautiful Empress Choco,4-Star,Event
-737,Ishtar's Arc de Triomphe de l'Étoile Rice Cakes,4-Star,Event
+737,Ishtar's Arc de Triomphe de l'�toile Rice Cakes,4-Star,Event
 738,Heroic Spirit Chocolate Sticks,4-Star,Event
 739,Steam Electrical Choco,4-Star,Event
 740,Cool-Mint Chocolate Bullet,4-Star,Event
@@ -743,7 +743,7 @@
 742,Best Student Choco-Tart,4-Star,Event
 743,Chocolettes,4-Star,Event
 744,Buddhist Cuisine,4-Star,Event
-745,"Manjū from Fūma Confectionery, Revised",4-Star,Event
+745,"Manj? from F?ma Confectionery, Revised",4-Star,Event
 746,Western-Styled Zenzai,4-Star,Event
 747,Broiled Sweet Chestnut Chocolate,4-Star,Event
 748,Antiquated Maple Bridge,4-Star,Event
@@ -764,7 +764,7 @@
 763,The Pharaoh's Great Winter Thanksgiving Festival,4-Star,Misc
 764,Star of Camelot,5-Star,Limited
 765,Detective Edmond ~Foreign Nation Infiltration Arc~,5-Star,Limited
-766,Gâteau au Chocolat,4-Star,Limited
+766,G�teau au Chocolat,4-Star,Limited
 767,The Sun and Gold Gamblers,4-Star,Limited
 768,Chaldea Special Investigation Unit,4-Star,Limited
 769,Welcome Diner,3-Star,Limited
@@ -806,7 +806,7 @@
 805,Fang-Sharpening Shadow Blade,3-Star,Limited
 806,Miss Sailor in White Uniform,5-Star,Event
 807,Craft Essence EXP Card: GUDAGUDA Majin-san,4-Star,Misc
-808,Craft Essence EXP Card: GUDAGUDA Tosa Dōmei,3-Star,Misc
+808,Craft Essence EXP Card: GUDAGUDA Tosa D?mei,3-Star,Misc
 809,The Extremity of Endlessness,4-Star,MaxBond
 810,The Sky on that Day,4-Star,MaxBond
 811,An Incident on a Certain Mountain,4-Star,MaxBond
@@ -835,12 +835,12 @@
 834,Heroic Spirit Traveling Outfit: Karna,4-Star,Heroic_Spirit
 835,Heroic Spirit Traveling Outfit: Kiyohime,4-Star,Heroic_Spirit
 836,Heroic Spirit Traveling Outfit: Xuanzang Sanzang,4-Star,Heroic_Spirit
-837,Heroic Spirit Traveling Outfit: Sasaki Kojirō,4-Star,Heroic_Spirit
+837,Heroic Spirit Traveling Outfit: Sasaki Kojir?,4-Star,Heroic_Spirit
 838,Heroic Spirit Traveling Outfit: Sanson,4-Star,Heroic_Spirit
 839,Heroic Spirit Traveling Outfit: Sherlock Holmes,4-Star,Heroic_Spirit
 840,Heroic Spirit Traveling Outfit: Assassin of Shinjuku,4-Star,Heroic_Spirit
 841,Heroic Spirit Traveling Outfit: Shinmen Musashi no Kami Fujiwara no Harunobu,4-Star,Heroic_Spirit
-842,Heroic Spirit Traveling Outfit: Scáthach,4-Star,Heroic_Spirit
+842,Heroic Spirit Traveling Outfit: Sc�thach,4-Star,Heroic_Spirit
 843,Heroic Spirit Traveling Outfit: Suzuka Gozen,4-Star,Heroic_Spirit
 844,Heroic Spirit Traveling Outfit: David,4-Star,Heroic_Spirit
 845,Heroic Spirit Traveling Outfit: Tamamo no Mae,4-Star,Heroic_Spirit
@@ -853,8 +853,8 @@
 852,Heroic Spirit Traveling Outfit: Merlin,4-Star,Heroic_Spirit
 853,Heroic Spirit Traveling Outfit: Mashu Kyrielight,4-Star,Heroic_Spirit
 854,Heroic Spirit Traveling Outfit: Martha,4-Star,Heroic_Spirit
-855,Heroic Spirit Traveling Outfit: Minamoto no Raikō,4-Star,Heroic_Spirit
-856,Heroic Spirit Traveling Outfit: Yagyū Tajima no Kami Munenori,4-Star,Heroic_Spirit
+855,Heroic Spirit Traveling Outfit: Minamoto no Raik?,4-Star,Heroic_Spirit
+856,Heroic Spirit Traveling Outfit: Yagy? Tajima no Kami Munenori,4-Star,Heroic_Spirit
 857,Heroic Spirit Traveling Outfit: Leonardo Da Vinci,4-Star,Heroic_Spirit
 858,A Tale of Love and Hope,5-Star,Limited
 859,Greatest Journey,4-Star,Limited
@@ -885,7 +885,7 @@
 884,Bible of Shingon Tachikawa School,4-Star,Misc
 885,Crossvikki Magician Girl and The Monster,4-Star,Misc
 886,Sea Angel,4-Star,MaxBond
-887,Great Fireworks of Mt. Ōe,4-Star,MaxBond
+887,Great Fireworks of Mt. ?e,4-Star,MaxBond
 888,Acting Like Tengu Set,4-Star,MaxBond
 889,Crystals of Stacked Time,4-Star,MaxBond
 890,Last Resort of the Abyss,4-Star,MaxBond
@@ -965,14 +965,14 @@
 964,Ice Candy,4-Star,Event
 965,White Dolphin Dream,4-Star,Event
 966,Cotton Candy,4-Star,Event
-967,Mt. Kurama's Delicacy: Aralia-shaped Manjū,4-Star,Event
+967,Mt. Kurama's Delicacy: Aralia-shaped Manj?,4-Star,Event
 968,Knoten Herz Schokolade,4-Star,Event
 969,Master in The Chocolate,4-Star,Event
 970,Dark Chocolate with Medb-chan Crest,4-Star,Event
 971,Nebula Sweet,4-Star,Event
 972,A Fruit from Emain Ablach,4-Star,Event
 973,Snow-Viewing White Chocolate,4-Star,Event
-974,Gohō Shōjo Chocolate,4-Star,Event
+974,Goh? Sh?jo Chocolate,4-Star,Event
 975,Xiang Yu's Sword,4-Star,Event
 976,Beauty-Concealing Mask,4-Star,Event
 977,Panda,4-Star,Event
@@ -1032,7 +1032,7 @@
 1031,Craft Essence EXP Card: Bishamonten is Here!,3-Star,Misc
 1032,Beyond the Aeons,4-Star,MaxBond
 1033,Will,4-Star,MaxBond
-1034,Tōhachi Bishamonten,4-Star,MaxBond
+1034,T?hachi Bishamonten,4-Star,MaxBond
 1035,Women of Agartha,4-Star,Misc
 1036,Tournament of the Seven Blade-Master Heroic Spirits,4-Star,Misc
 1037,Deep Sea Cyberbrain Paradise SE.RA.PH.,4-Star,Misc
@@ -1045,23 +1045,23 @@
 1044,Heroic Spirit Festive Wear: Artoria Pendragon,4-Star,Heroic_Spirit
 1045,Heroic Spirit Festive Wear: Andersen,4-Star,Heroic_Spirit
 1046,Heroic Spirit Festive Wear: Antonio Salieri,4-Star,Heroic_Spirit
-1047,Heroic Spirit Festive Wear: Ibaraki Dōji,4-Star,Heroic_Spirit
+1047,Heroic Spirit Festive Wear: Ibaraki D?ji,4-Star,Heroic_Spirit
 1048,Heroic Spirit Festive Wear: Ereshkigal,4-Star,Heroic_Spirit
 1049,Heroic Spirit Festive Wear: Helena Blavatsky,4-Star,Heroic_Spirit
 1050,Heroic Spirit Festive Wear: Yan Qing,4-Star,Heroic_Spirit
-1051,Heroic Spirit Festive Wear: Okada Izō,4-Star,Heroic_Spirit
+1051,Heroic Spirit Festive Wear: Okada Iz?,4-Star,Heroic_Spirit
 1052,Heroic Spirit Festive Wear: Osakabehime,4-Star,Heroic_Spirit
 1053,Heroic Spirit Festive Wear: Katsushika Hokusai,4-Star,Heroic_Spirit
 1054,Heroic Spirit Festive Wear: Consort Yu,4-Star,Heroic_Spirit
 1055,Heroic Spirit Festive Wear: Quetzalcoatl,4-Star,Heroic_Spirit
-1056,Heroic Spirit Festive Wear: Sakamoto Ryōma,4-Star,Heroic_Spirit
+1056,Heroic Spirit Festive Wear: Sakamoto Ry?ma,4-Star,Heroic_Spirit
 1057,Heroic Spirit Festive Wear: Sanson,4-Star,Heroic_Spirit
 1058,Heroic Spirit Festive Wear: Shi Huang Di,4-Star,Heroic_Spirit
 1059,Heroic Spirit Festive Wear: Sitonai,4-Star,Heroic_Spirit
 1060,Heroic Spirit Festive Wear: Jeanne d'Arc,4-Star,Heroic_Spirit
-1061,Heroic Spirit Festive Wear: Shuten Dōji,4-Star,Heroic_Spirit
-1062,Heroic Spirit Festive Wear: Scáthach-Skaði,4-Star,Heroic_Spirit
-1063,Heroic Spirit Festive Wear: Sesshōin Kiara,4-Star,Heroic_Spirit
+1061,Heroic Spirit Festive Wear: Shuten D?ji,4-Star,Heroic_Spirit
+1062,Heroic Spirit Festive Wear: Sc�thach-Ska�i,4-Star,Heroic_Spirit
+1063,Heroic Spirit Festive Wear: Sessh?in Kiara,4-Star,Heroic_Spirit
 1064,Heroic Spirit Festive Wear: Diarmuid Ua Duibhne,4-Star,Heroic_Spirit
 1065,Heroic Spirit Festive Wear: Tomoe Gozen,4-Star,Heroic_Spirit
 1066,Heroic Spirit Festive Wear: Mysterious Heroine XX,4-Star,Heroic_Spirit
@@ -1116,7 +1116,7 @@
 1115,Twin Star Divas,5-Star,Event
 1116,Bestia del Sol,5-Star,Event
 1117,Craft Essence EXP Card: My First Curry,4-Star,Misc
-1118,Craft Essence EXP Card: Mysterious Substance γ,3-Star,Misc
+1118,Craft Essence EXP Card: Mysterious Substance ?,3-Star,Misc
 1119,Towards the Cosmos of Reunion,4-Star,MaxBond
 1120,Cheerleader of Shooting Stars,4-Star,MaxBond
 1121,Chaldea Dinnertime,5-Star,Misc
@@ -1135,7 +1135,7 @@
 1134,"The Sword that Breaks, When the Battle Concludes",4-Star,MaxBond
 1135,White Bull,4-Star,MaxBond
 1136,Capsule Servant,4-Star,Misc
-1137,Fate/stay night 「Réalta Nua」,4-Star,Misc
+1137,Fate/stay night ?R�alta Nua?,4-Star,Misc
 1138,Fate/stay night -Tracing 15 Years-,4-Star,Misc
 1139,Chaldea Park Caravan,4-Star,Misc
 1140,Knowing the Way Broadly,5-Star,Limited
@@ -1182,7 +1182,7 @@
 1181,Choco Choco Octopus Netsuke,4-Star,Event
 1182,Chocolate Cake Bunny White,4-Star,Event
 1183,Bluebird Jelly Ice,4-Star,Event
-1184,Jet Choco Yōkan,4-Star,Event
+1184,Jet Choco Y?kan,4-Star,Event
 1185,Space Diorama Choco,4-Star,Event
 1186,SCB (Space Chocolate Bar),4-Star,Event
 1187,Bunny Ears,4-Star,Event
@@ -1223,35 +1223,35 @@
 1222,Heroic Spirit Travel Journal: Atalanta,4-Star,Heroic_Spirit
 1223,Heroic Spirit Travel Journal: Anastasia,4-Star,Heroic_Spirit
 1224,Heroic Spirit Travel Journal: Abigail Williams,4-Star,Heroic_Spirit
-1225,Heroic Spirit Travel Journal: Amakusa Shirō,4-Star,Heroic_Spirit
+1225,Heroic Spirit Travel Journal: Amakusa Shir?,4-Star,Heroic_Spirit
 1226,Heroic Spirit Travel Journal: Artoria Pendragon,4-Star,Heroic_Spirit
 1227,Heroic Spirit Travel Journal: Ishtar,4-Star,Heroic_Spirit
-1228,Heroic Spirit Travel Journal: Ushiwakamaru and Musashibō Benkei,4-Star,Heroic_Spirit
+1228,Heroic Spirit Travel Journal: Ushiwakamaru and Musashib? Benkei,4-Star,Heroic_Spirit
 1229,Heroic Spirit Travel Journal: Ereshkigal,4-Star,Heroic_Spirit
 1230,Heroic Spirit Travel Journal: Yan Qing,4-Star,Heroic_Spirit
-1231,Heroic Spirit Travel Journal: Okada Izō,4-Star,Heroic_Spirit
+1231,Heroic Spirit Travel Journal: Okada Iz?,4-Star,Heroic_Spirit
 1232,Heroic Spirit Travel Journal: Osakabehime,4-Star,Heroic_Spirit
 1233,Heroic Spirit Travel Journal: Katsushika Hokusai,4-Star,Heroic_Spirit
-1234,Heroic Spirit Travel Journal: Katō Danzō,4-Star,Heroic_Spirit
+1234,Heroic Spirit Travel Journal: Kat? Danz?,4-Star,Heroic_Spirit
 1235,Heroic Spirit Travel Journal: Karna and Arjuna,4-Star,Heroic_Spirit
 1236,Heroic Spirit Travel Journal: Kiyohime,4-Star,Heroic_Spirit
 1237,Heroic Spirit Travel Journal: Kingprotea,4-Star,Heroic_Spirit
-1238,Heroic Spirit Travel Journal: Cú Chulainn,4-Star,Heroic_Spirit
+1238,Heroic Spirit Travel Journal: C� Chulainn,4-Star,Heroic_Spirit
 1239,Heroic Spirit Travel Journal: Consort Yu,4-Star,Heroic_Spirit
 1240,Heroic Spirit Travel Journal: Georgios,4-Star,Heroic_Spirit
 1241,Heroic Spirit Travel Journal: Xuanzang Sanzang,4-Star,Heroic_Spirit
-1242,Heroic Spirit Travel Journal: Sasaki Kojirō,4-Star,Heroic_Spirit
+1242,Heroic Spirit Travel Journal: Sasaki Kojir?,4-Star,Heroic_Spirit
 1243,Heroic Spirit Travel Journal: Sigurd and Brynhildr,4-Star,Heroic_Spirit
 1244,Heroic Spirit Travel Journal: Sherlock Holmes,4-Star,Heroic_Spirit
 1245,Heroic Spirit Travel Journal: Jaguar Man,4-Star,Heroic_Spirit
 1246,Heroic Spirit Travel Journal: Jack the Ripper,4-Star,Heroic_Spirit
-1247,Heroic Spirit Travel Journal: Shuten Dōji,4-Star,Heroic_Spirit
-1248,Heroic Spirit Travel Journal: Scáthach-Skaði,4-Star,Heroic_Spirit
+1247,Heroic Spirit Travel Journal: Shuten D?ji,4-Star,Heroic_Spirit
+1248,Heroic Spirit Travel Journal: Sc�thach-Ska�i,4-Star,Heroic_Spirit
 1249,Heroic Spirit Travel Journal: Suzuka Gozen,4-Star,Heroic_Spirit
-1250,Heroic Spirit Travel Journal: Sei Shōnagon,4-Star,Heroic_Spirit
+1250,Heroic Spirit Travel Journal: Sei Sh?nagon,4-Star,Heroic_Spirit
 1251,Heroic Spirit Travel Journal: Mysterious Heroine X,4-Star,Heroic_Spirit
 1252,Heroic Spirit Travel Journal: Nitocris,4-Star,Heroic_Spirit
-1253,Heroic Spirit Travel Journal: Fūma Kotarō,4-Star,Heroic_Spirit
+1253,Heroic Spirit Travel Journal: F?ma Kotar?,4-Star,Heroic_Spirit
 1254,Heroic Spirit Travel Journal: Frankenstein,4-Star,Heroic_Spirit
 1255,Heroic Spirit Travel Journal: Bedivere,4-Star,Heroic_Spirit
 1256,Heroic Spirit Travel Journal: Beni-Enma,4-Star,Heroic_Spirit
@@ -1265,7 +1265,7 @@
 1264,Heroic Spirit Travel Journal: Murasaki Shikibu,4-Star,Heroic_Spirit
 1265,Heroic Spirit Travel Journal: Medusa,4-Star,Heroic_Spirit
 1266,Heroic Spirit Travel Journal: Mori Nagayoshi,4-Star,Heroic_Spirit
-1267,Heroic Spirit Travel Journal: Yagyū Tajima no Kami Munenori,4-Star,Heroic_Spirit
+1267,Heroic Spirit Travel Journal: Yagy? Tajima no Kami Munenori,4-Star,Heroic_Spirit
 1268,Heroic Spirit Travel Journal: Lanling Wang,4-Star,Heroic_Spirit
 1269,Heroic Spirit Travel Journal: Leonardo Da Vinci,4-Star,Heroic_Spirit
 1270,Celebrate Memories,5-Star,Limited
@@ -1279,7 +1279,7 @@
 1278,Seed of the Briar,4-Star,Misc
 1279,Above the Heavens,4-Star,Misc
 1280,Honey Lake,5-Star,Limited
-1281,Happy☆Drive,4-Star,Limited
+1281,Happy?Drive,4-Star,Limited
 1282,Horror Concierge,3-Star,Event
 1283,Hide Hunter,5-Star,Event
 1284,Chainsaw of the Dead,5-Star,Event
@@ -1316,7 +1316,7 @@
 1315,Charm of Love,5-Star,Non-Limited
 1316,Monarch's Temperament,4-Star,Non-Limited
 1317,God's Tongue,3-Star,Friend
-1318,"And Finally, At Mount Ōe",4-Star,ETC
+1318,"And Finally, At Mount ?e",4-Star,ETC
 1319,Vindication,4-Star,MaxBond
 1320,Tale of the Beginning and the End,4-Star,MaxBond
 1321,Gentle Steps,4-Star,Misc
@@ -1361,7 +1361,7 @@
 1360,Normal Friend's Chocolate,4-Star,Event
 1361,First Valentine,4-Star,Event
 1362,One Summer's Mirage Set,4-Star,Event
-1363,Spread ☆ Rainbow!,4-Star,Event
+1363,Spread ? Rainbow!,4-Star,Event
 1364,Valkyrie's Wedding,4-Star,Event
 1365,Obligation Chocolate to Report Her Happiness,4-Star,Event
 1366,Starry Night,4-Star,Event
@@ -1372,7 +1372,7 @@
 1371,Wooden Shrike Sculpture,4-Star,Event
 1372,Gogh's (Attempted) Chocolate Marinade,4-Star,Event
 1373,Memories,4-Star,Event
-1374,Dōman's Talisman,4-Star,Event
+1374,D?man's Talisman,4-Star,Event
 1375,Oni Chocolate Set,4-Star,Event
 1376,Devils Food Cake,4-Star,Event
 1377,The Sealed Best Delicacy,4-Star,Event
@@ -1394,7 +1394,7 @@
 1393,Infinity Dream,3-Star,Limited
 1394,City where Dreams are Born,5-Star,Limited
 1395,Junk Shop,4-Star,Limited
-1396,Hào Chī?,3-Star,Limited
+1396,H�o Ch??,3-Star,Limited
 1397,The Unmanipulatable Ones,5-Star,Event
 1398,Memory of Cyprus,4-Star,MaxBond
 1399,Flower Sunshine,5-Star,Limited
@@ -1419,13 +1419,13 @@
 1418,Awkward Gratification,4-Star,MaxBond
 1419,Aurora,4-Star,MaxBond
 1420,Holy Lance Longinus,4-Star,MaxBond
-1421,Heroic Spirit Tour: Aśvatthāman,4-Star,Heroic_Spirit
+1421,Heroic Spirit Tour: A?vatth?man,4-Star,Heroic_Spirit
 1422,Heroic Spirit Tour: Astolfo,4-Star,Heroic_Spirit
 1423,Heroic Spirit Tour: Ushiwakamaru,4-Star,Heroic_Spirit
-1424,Heroic Spirit Tour: Saitō Hajime,4-Star,Heroic_Spirit
+1424,Heroic Spirit Tour: Sait? Hajime,4-Star,Heroic_Spirit
 1425,Heroic Spirit Tour: Dioscuri,4-Star,Heroic_Spirit
 1426,Heroic Spirit Tour: Voyager,4-Star,Heroic_Spirit
-1427,Heroic Spirit Tour: Ashiya Dōman,4-Star,Heroic_Spirit
+1427,Heroic Spirit Tour: Ashiya D?man,4-Star,Heroic_Spirit
 1428,Heroic Spirit Tour: Abigail Williams,4-Star,Heroic_Spirit
 1429,Heroic Spirit Tour: Van Gogh,4-Star,Heroic_Spirit
 1430,Heroic Spirit Tour: Oda Nobukatsu,4-Star,Heroic_Spirit
@@ -1436,7 +1436,7 @@
 1435,Heroic Spirit Tour: Helena Blavatsky,4-Star,Heroic_Spirit
 1436,Heroic Spirit Tour: Jaguar Man,4-Star,Heroic_Spirit
 1437,Heroic Spirit Tour: Mysterious Idol X,4-Star,Heroic_Spirit
-1438,Heroic Spirit Tour: Mysterious Alter Ego Λ,4-Star,Heroic_Spirit
+1438,Heroic Spirit Tour: Mysterious Alter Ego ?,4-Star,Heroic_Spirit
 1439,Final Singularity - The Grand Temple of Time: Solomon,4-Star,Misc
 1440,Heroic Spirit Tour: Carmilla,4-Star,Heroic_Spirit
 1441,Heroic Spirit Tour: James Moriarty,4-Star,Heroic_Spirit
@@ -1449,7 +1449,7 @@
 1448,Heroic Spirit Tour: Artoria Caster,4-Star,Heroic_Spirit
 1449,Heroic Spirit Tour: Artoria Pendragon,4-Star,Heroic_Spirit
 1450,Heroic Spirit Tour: Vritra,4-Star,Heroic_Spirit
-1451,Heroic Spirit Tour: Scáthach-Skaði,4-Star,Heroic_Spirit
+1451,Heroic Spirit Tour: Sc�thach-Ska�i,4-Star,Heroic_Spirit
 1452,Heroic Spirit Tour: Bartholomew Roberts,4-Star,Heroic_Spirit
 1453,Heroic Spirit Tour: Himiko,4-Star,Heroic_Spirit
 1454,Heroic Spirit Tour: Watanabe no Tsuna,4-Star,Heroic_Spirit
@@ -1460,7 +1460,7 @@
 1459,Summer Anniversary,5-Star,Limited
 1460,Reading Holiday,4-Star,Limited
 1461,Gof Special,3-Star,Limited
-1462,Ambition of Koyanskaya ～East Coast Edition～,4-Star,MaxBond
+1462,Ambition of Koyanskaya ?East Coast Edition?,4-Star,MaxBond
 1463,Gloucester in 2018,4-Star,ETC
 1464,The Promise After 2400 Years,4-Star,MaxBond
 1465,A Pavane for the Deceased Princess,4-Star,MaxBond
@@ -1521,9 +1521,9 @@
 1520,With All My Heart,4-Star,Limited
 1521,Maximum Overdrive,3-Star,Misc
 1522,Craft Essence EXP Card: Life of Olga,4-Star,Misc
-1523,Ambition of Koyanskaya ～Eurasia Edition～,4-Star,MaxBond
+1523,Ambition of Koyanskaya ?Eurasia Edition?,4-Star,MaxBond
 1524,Lion Cub Dance,4-Star,Event
-1525,Let's Go for Hatsumōde,4-Star,Misc
+1525,Let's Go for Hatsum?de,4-Star,Misc
 1526,What Was Entrusted to Her,4-Star,MaxBond
 1527,Inexhaustible Pile of Dust,4-Star,ETC
 1528,Valentine Witches,5-Star,Limited
@@ -1622,13 +1622,13 @@
 1621,Fortress of the Swords,4-Star,Limited
 1622,Brave Warriors of the Prairie,3-Star,Limited
 1623,Heart Breaker,5-Star,Event
-1624,Nansō Satomi Hakkenden,4-Star,MaxBond
+1624,Nans? Satomi Hakkenden,4-Star,MaxBond
 1625,A Single Blow to Fell a Ship,4-Star,MaxBond
 1626,Heroic Spirit Dream Portrait: Red Hare,4-Star,Heroic_Spirit
 1627,Heroic Spirit Dream Portrait: Percival,4-Star,Heroic_Spirit
 1628,Heroic Spirit Dream Portrait: Charlotte Corday,4-Star,Heroic_Spirit
 1629,Heroic Spirit Dream Portrait: Mandricardo,4-Star,Heroic_Spirit
-1630,Heroic Spirit Dream Portrait: Mélusine,4-Star,Heroic_Spirit
+1630,Heroic Spirit Dream Portrait: M�lusine,4-Star,Heroic_Spirit
 1631,Heroic Spirit Dream Portrait: James Moriarty,4-Star,Heroic_Spirit
 1632,Heroic Spirit Dream Portrait: Arjuna,4-Star,Heroic_Spirit
 1633,Heroic Spirit Dream Portrait: Barghest,4-Star,Heroic_Spirit
@@ -1642,9 +1642,9 @@
 1641,Heroic Spirit Dream Portrait: Kama,4-Star,Heroic_Spirit
 1642,Heroic Spirit Dream Portrait: Mysterious Ranmaru X,4-Star,Heroic_Spirit
 1643,Heroic Spirit Dream Portrait: Demon King Nobunaga,4-Star,Heroic_Spirit
-1644,Heroic Spirit Dream Portrait: Cú Chulainn,4-Star,Heroic_Spirit
+1644,Heroic Spirit Dream Portrait: C� Chulainn,4-Star,Heroic_Spirit
 1645,Heroic Spirit Dream Portrait: Mashu Kyrielight,4-Star,Heroic_Spirit
-1646,Heroic Spirit Dream Portrait: Hijikata Toshizō,4-Star,Heroic_Spirit
+1646,Heroic Spirit Dream Portrait: Hijikata Toshiz?,4-Star,Heroic_Spirit
 1647,Heroic Spirit Dream Portrait: Artoria Pendragon,4-Star,Heroic_Spirit
 1648,Heroic Spirit Dream Portrait: Super Bunyan,4-Star,Heroic_Spirit
 1649,Heroic Spirit Dream Portrait: Jacques de Molay,4-Star,Heroic_Spirit
@@ -1656,11 +1656,11 @@
 1655,Heroic Spirit Dream Portrait: Shinmen Musashi no Kami Fujiwara no Harunobu,4-Star,Heroic_Spirit
 1656,Heroic Spirit Dream Portrait: Arash,4-Star,Heroic_Spirit
 1657,Heroic Spirit Dream Portrait: Merlin,4-Star,Heroic_Spirit
-1658,Heroic Spirit Dream Portrait: Saitō Hajime,4-Star,Heroic_Spirit
+1658,Heroic Spirit Dream Portrait: Sait? Hajime,4-Star,Heroic_Spirit
 1659,Heroic Spirit Dream Portrait: Space Ishtar,4-Star,Heroic_Spirit
-1660,Heroic Spirit Dream Portrait: Okada Izō,4-Star,Heroic_Spirit
+1660,Heroic Spirit Dream Portrait: Okada Iz?,4-Star,Heroic_Spirit
 1661,Heroic Spirit Dream Portrait: Siegfried,4-Star,Heroic_Spirit
-1662,Heroic Spirit Dream Portrait: Okita Sōji,4-Star,Heroic_Spirit
+1662,Heroic Spirit Dream Portrait: Okita S?ji,4-Star,Heroic_Spirit
 1663,Heroic Spirit Dream Portrait: Mochizuki Chiyome,4-Star,Heroic_Spirit
 1664,Crucible of Bloody Tears,4-Star,ETC
 1665,Atelier of Scarlet Medulla,4-Star,ETC
@@ -1748,14 +1748,14 @@
 1747,I Only Believe in the God I Worship,3-Star,Non-Limited
 1748,On that Night From a Long Time Ago,4-Star,ETC
 1749,Mask of Warriors,4-Star,MaxBond
-1750,Aztlán My Home,4-Star,MaxBond
+1750,Aztl�n My Home,4-Star,MaxBond
 1751,My First Gift,4-Star,MaxBond
 1752,Winds of Spring,5-Star,Limited
 1753,Love Delusion,4-Star,Limited
 1754,Sleeping Eliza,3-Star,Limited
 1755,The Cute Girl Seated Behind Me,5-Star,Event
 1756,"My Thoughts, My Records",4-Star,MaxBond
-1757,Lotus Seed Chè & Choco That Wasn't Supposed to be Given,4-Star,Event
+1757,Lotus Seed Ch� & Choco That Wasn't Supposed to be Given,4-Star,Event
 1758,Let's Bask in the Sun Together,4-Star,Event
 1759,Super Bunyan Meal,4-Star,Event
 1760,Gift from Daikokuten (Digestive Medicine),4-Star,Event
@@ -1767,13 +1767,13 @@
 1766,Your Scholarship Certification,4-Star,Event
 1767,Windmill Choco and Appendices of Don Quixote,4-Star,Event
 1768,Stylish Deep Crimson? Necktie,4-Star,Event
-1769,Water Manjū of Eight Virtues,4-Star,Event
+1769,Water Manj? of Eight Virtues,4-Star,Event
 1770,Mini Tametomo with Smartphone-Transformation Feature,4-Star,Event
 1771,Half-Moon Half-Earth,4-Star,Event
 1772,Still in Joint Production!,4-Star,Event
 1773,Sweet Bouquet Avalon,4-Star,Event
 1774,Icy-Cold Sports Drink,4-Star,Event
-1775,Junmai Daiginjō Ibuki,4-Star,Event
+1775,Junmai Daiginj? Ibuki,4-Star,Event
 1776,Planetary Donuts,4-Star,Event
 1777,Blue Luluhawa-Flavoured Shaved Ice,4-Star,Event
 1778,Jiangshi-Beneficial Choco-Mochi,4-Star,Event
@@ -1842,29 +1842,29 @@
 1841,Artisanal Soul,5-Star,Event
 1842,Monstrous Golden Blade,4-Star,MaxBond
 1843,Heroic Spirit Event Attire: Achilles,4-Star,Heroic_Spirit
-1844,Heroic Spirit Event Attire: Ashiya Dōman,4-Star,Heroic_Spirit
+1844,Heroic Spirit Event Attire: Ashiya D?man,4-Star,Heroic_Spirit
 1845,Heroic Spirit Event Attire: Asclepius,4-Star,Heroic_Spirit
 1846,Heroic Spirit Event Attire: Abigail Williams,4-Star,Heroic_Spirit
-1847,Heroic Spirit Event Attire: Ibuki Dōji,4-Star,Heroic_Spirit
+1847,Heroic Spirit Event Attire: Ibuki D?ji,4-Star,Heroic_Spirit
 1848,Heroic Spirit Event Attire: Ereshkigal,4-Star,Heroic_Spirit
-1849,Heroic Spirit Event Attire: Okada Izō,4-Star,Heroic_Spirit
+1849,Heroic Spirit Event Attire: Okada Iz?,4-Star,Heroic_Spirit
 1850,Heroic Spirit Event Attire: Popess Johanna,4-Star,Heroic_Spirit
 1851,Heroic Spirit Event Attire: Kama,4-Star,Heroic_Spirit
 1852,Heroic Spirit Event Attire: Circe,4-Star,Heroic_Spirit
-1853,Heroic Spirit Event Attire: Cú Chulainn,4-Star,Heroic_Spirit
+1853,Heroic Spirit Event Attire: C� Chulainn,4-Star,Heroic_Spirit
 1854,Heroic Spirit Event Attire: Kukulkan,4-Star,Heroic_Spirit
 1855,Heroic Spirit Event Attire: Gray,4-Star,Heroic_Spirit
 1856,Heroic Spirit Event Attire: Constantine XI,4-Star,Heroic_Spirit
-1857,Heroic Spirit Event Attire: Saitō Hajime,4-Star,Heroic_Spirit
-1858,Heroic Spirit Event Attire: Sakamoto Ryōma,4-Star,Heroic_Spirit
+1857,Heroic Spirit Event Attire: Sait? Hajime,4-Star,Heroic_Spirit
+1858,Heroic Spirit Event Attire: Sakamoto Ry?ma,4-Star,Heroic_Spirit
 1859,Heroic Spirit Event Attire: Salome,4-Star,Heroic_Spirit
 1860,Heroic Spirit Event Attire: Shi Huang Di,4-Star,Heroic_Spirit
 1861,Heroic Spirit Event Attire: Charlemagne,4-Star,Heroic_Spirit
 1862,Heroic Spirit Event Attire: Jeanne d'Arc,4-Star,Heroic_Spirit
 1863,Heroic Spirit Event Attire: Xu Fu,4-Star,Heroic_Spirit
-1864,Heroic Spirit Event Attire: Scáthach,4-Star,Heroic_Spirit
-1865,Heroic Spirit Event Attire: Sei Shōnagon,4-Star,Heroic_Spirit
-1866,Heroic Spirit Event Attire: Sétanta,4-Star,Heroic_Spirit
+1864,Heroic Spirit Event Attire: Sc�thach,4-Star,Heroic_Spirit
+1865,Heroic Spirit Event Attire: Sei Sh?nagon,4-Star,Heroic_Spirit
+1866,Heroic Spirit Event Attire: S�tanta,4-Star,Heroic_Spirit
 1867,Heroic Spirit Event Attire: Taigong Wang,4-Star,Heroic_Spirit
 1868,Heroic Spirit Event Attire: Taisui Xingjun,4-Star,Heroic_Spirit
 1869,Heroic Spirit Event Attire: Taira no Kagekiyo,4-Star,Heroic_Spirit
@@ -1878,7 +1878,7 @@
 1877,Heroic Spirit Event Attire: Bhima,4-Star,Heroic_Spirit
 1878,Heroic Spirit Event Attire: Frankenstein,4-Star,Heroic_Spirit
 1879,Heroic Spirit Event Attire: Beni-Enma,4-Star,Heroic_Spirit
-1880,Heroic Spirit Event Attire: Manannán mac Lir,4-Star,Heroic_Spirit
+1880,Heroic Spirit Event Attire: Manann�n mac Lir,4-Star,Heroic_Spirit
 1881,Heroic Spirit Event Attire: Mordred,4-Star,Heroic_Spirit
 1882,Heroic Spirit Event Attire: Yamanami Keisuke,4-Star,Heroic_Spirit
 1883,Heroic Spirit Event Attire: Yang Guifei,4-Star,Heroic_Spirit
@@ -1916,7 +1916,7 @@
 1915,Chaldea Gaming Binge,4-Star,Event
 1916,Heartbeat Iron Clubs,4-Star,Event
 1917,Super Doctor,4-Star,Event
-1918,Kense Setsu Bishōnen Roku,4-Star,Event
+1918,Kense Setsu Bish?nen Roku,4-Star,Event
 1919,EVER DARK -Evernight Battlefront-,4-Star,Event
 1920,Faerie Kingdom's Summer Vacation,4-Star,Event
 1921,Southern Island's Festival,4-Star,Event
@@ -1964,12 +1964,12 @@
 1963,My Dearest Days,4-Star,MaxBond
 1964,Faerie Kingdom's New Year Show,5-Star,Event
 1965,Waxing Moon Ritual,4-Star,Event
-1966,Woman of Niten Ichi-ryū,5-Star,Limited
+1966,Woman of Niten Ichi-ry?,5-Star,Limited
 1967,Met By Chance,4-Star,Limited
 1968,Well-Matched,3-Star,Limited
 1969,Dango Over Moon,5-Star,Limited
 1970,Ox-King's Huge Divine Messenger,4-Star,MaxBond
-1971,Hakutō Daishō,4-Star,MaxBond
+1971,Hakut? Daish?,4-Star,MaxBond
 1972,One Night at the Port,4-Star,MaxBond
 ,,,
 ,,,

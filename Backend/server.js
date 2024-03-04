@@ -85,7 +85,13 @@ app.get('/fou',(req, res)=> {
     })
 })
 
-
+app.get('/login',(req, res)=> {
+    const sql = "SELECT * FROM fou";
+    db.query(sql, (err,data)=>{
+        if (err)    return res.json(err);
+        return res.json("login success")
+    })
+})
 
 
 app.listen(8081, ()=>
