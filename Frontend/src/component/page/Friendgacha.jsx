@@ -350,18 +350,18 @@ function Friendgacha() {
         var imgX = Math.floor(domX * ratioX);
         var imgY = Math.floor(domY * ratioY);
 
-        if((imgX >= 315 && imgX <= 450)&&(imgY >= 415 && imgY <= 460)) //x = 315-450 y = 415-460
+        if((imgX >= 700 && imgX <= 1000)&&(imgY >= 715 && imgY <= 840)) //x = 315-450 y = 415-460
         {
             console.log("Summon 1x")
             Summon()
         }
-        else if((imgX >= 510 && imgX <= 645)&&(imgY >= 415 && imgY <= 460)) //x = 315-450 y = 415-460
+        else if((imgX >= 1140 && imgX <= 1440)&&(imgY >= 715 && imgY <= 840)) //x = 315-450 y = 415-460
         {
             console.log("Summon 10x")
             Summon10()
         }
       
-        //console.log(imgX, imgY);
+        console.log(imgX, imgY);
       };
 
       return () => {
@@ -370,15 +370,12 @@ function Friendgacha() {
       };
     }, []); // 👈️ empty dependencies array
     return (
-        <div>
-        <div class = 'center'>
-            <img id = 'myimage' src='/src/component/imgandsound/fp.jpg' alt='FP banner' className='imagehalfhalf'></img>
-    </div>
-    <button onClick={tillgetting_angra} class = 'bottom'>
+        <body><center>
+        <img id = 'myimage' src='/src/component/imgandsound/fp.jpg' alt='FP banner' class = 'imagebanner'></img>
+            <div><button onClick={tillgetting_angra} class = 'bottom'>
             Roll until getting Angra
-        </button>
-        <h1 id="Summon_Result"></h1>
-    </div>
+        </button></div>
+            </center></body>           
     )
 }
 

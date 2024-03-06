@@ -4,7 +4,8 @@ import Popper from 'popper.js';
 import Footer from '../Footer/'
 
 function Home() {
-    return (<div>
+    return (
+    <div>
     <header>
     <HeaderHome />
     </header>

@@ -5,7 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Friendgacha from './component/page/Friendgacha';
 import Storygacha from './component/page/Storygacha';
 import Home from './component/page/Home'
-import Navbar from './component/navbar';
+import Navbar from './component/Navbar';
 import Footer from './component/Footer';
 
 import 'bootstrap';

@@ -10878,7 +10878,7 @@ textarea.form-control-lg {
 }
 .center {
   margin: 0;
-  position: absolute;
+  position: fixed;
   top: 50%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
@@ -10897,8 +10897,24 @@ textarea.form-control-lg {
 .imagehalf {
   transform: scale(0.5);
 }
-.imagehalfhalf {
-  transform: scale(0.35);
+
+.imagebanner
+{
+
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: auto;
+    max-width: 70vw;
+    max-height: 70vh;
+    transform: scale(0.8);
+}
+
+
+.container {
+    width: 200px;
+    height: 200px;
+    background-color: #0a0a23;
 }
 
 .footer {
@@ -10908,5 +10924,6 @@ textarea.form-control-lg {
   left: 0;
   text-align: center;
 }
+
 
 /*# sourceMappingURL=bootstrap.css.map */
