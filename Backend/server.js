@@ -85,11 +85,21 @@ app.get('/fou',(req, res)=> {
     })
 })
 
-app.get('/login',(req, res)=> {
-    const sql = "SELECT * FROM fou";
+//for story banner
+
+app.get('/servant_story',(req, res)=> {
+    const sql = "SELECT * FROM `fate_servant_data` WHERE Servent_Summon IN ('Non-Limited', 'Story-Locked') and Rarity IN ('3-Star', '4-Star', '5-Star')";
     db.query(sql, (err,data)=>{
         if (err)    return res.json(err);
-        return res.json("login success")
+        return res.json(data)
+    })
+})
+
+app.get('/ce_story',(req, res)=> {
+    const sql = "SELECT * FROM `ce_data` WHERE CE_Summon IN ('Non-Limited', 'Friend') and Rarity IN ('3-Star', '4-Star', '5-Star')";
+    db.query(sql, (err,data)=>{
+        if (err)    return res.json(err);
+        return res.json(data)
     })
 })
 

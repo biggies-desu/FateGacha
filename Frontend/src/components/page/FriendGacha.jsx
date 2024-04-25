@@ -52,7 +52,12 @@ function Summon()
     last_result = summon_result
     const filterattribute = getfilterdata(friendgachadatarate[summon_result]);
     //console.log(filterattribute.Name,filterattribute.Rarity,filterattribute.Type)
-    textsummon1 = "You got "+filterattribute.Name+" "+filterattribute.Rarity+" ("+filterattribute.Type+")"
+    let rarityText = filterattribute.Rarity.replace(/(\d+)-Star/g, (match, p1) => {
+        let stars = "⭐️".repeat(parseInt(p1));
+        return stars;
+    });
+  
+    textsummon1 = "You got "+filterattribute.Name+" "+rarityText+" ("+filterattribute.Type+")"
     document.getElementById("summon1result").innerHTML = textsummon1
 }
 function getfilterdata(item)
@@ -92,7 +97,6 @@ function getfilterdata(item)
     
 }
 
-
 function Summon10()
 {
     let friendgachax10 = []
@@ -115,7 +119,11 @@ function Summon10()
     console.log(friendgachadatarate[summon_result])
     const filterattribute = getfilterdata(friendgachadatarate[summon_result]);
     //console.log(filterattribute.Name,filterattribute.Rarity,filterattribute.Type)
-    textsummon10 = textsummon10+"You got "+filterattribute.Name+" "+filterattribute.Rarity+" ("+filterattribute.Type+")"+"<br>"
+    let rarityText = filterattribute.Rarity.replace(/(\d+)-Star/g, (match, p1) => {
+        let stars = "⭐️".repeat(parseInt(p1));
+        return stars;
+    });
+    textsummon10 = textsummon10+"You got "+filterattribute.Name+" "+rarityText+" ("+filterattribute.Type+")"+"<br>"
     }
     document.getElementById("summon10result").innerHTML = textsummon10
     console.log(friendgachax10)
@@ -124,9 +132,11 @@ function Summon10()
 
 function clearonscreen()
 {
+    var resultonscreen = '💎 Result 💎'
     textangra = ''
     textsummon1 = ''
     textsummon10 = ''
+    document.getElementById("result").innerHTML = resultonscreen
     document.getElementById("angraresult").innerHTML = textangra
     document.getElementById("summon1result").innerHTML = textsummon1
     document.getElementById("summon10result").innerHTML = textsummon10
@@ -136,6 +146,7 @@ function FriendGacha() {
     useEffect(() => {
         //ข้างใน
         console.log('Summon button click')
+        
 
     //endpoint of api require for friend gacha
 
@@ -154,6 +165,7 @@ function FriendGacha() {
         // console.log(response[1]);
         // console.log(response[2]);
         // console.log(response[3]);
+        friendgachadatarate.splice(0,friendgachadatarate.length) //clear array if visit page
 
         response.forEach(wholedata => {
             friendgachadata.push(wholedata)
@@ -430,6 +442,7 @@ function FriendGacha() {
 
     return () => {
         console.log('Component unmounted');
+        
       };
     }, []);
 
@@ -439,12 +452,13 @@ function FriendGacha() {
         <div>
         <div className='text-2xl pt-5 text-center'>Friend point Gacha</div>
         <div className='pt-5 items-center max-w-3xl'><img src="./src/components/element/fp.jpg" id='bannerimg'></img></div>
-        <div className='bg-blue-300 hover:bg-blue-500 items-center justify-center text-center mt-6 rounded mx-48'>
+        <div className='bg-red-300 hover:bg-red-500 items-center justify-center text-center mt-6 rounded mx-48'>
         <button onClick={tillgetting_angra}>
-            Roll until getting Angra (warning! it take a while)
+         Roll until getting Angra (Warning! it might take a while)
         </button>
         </div>
         <div className='text-center mt-4'>
+            <p id='result'></p>
             <p id='summon1result'></p>
             <p id='summon10result'></p>
             <p id='angraresult'></p>

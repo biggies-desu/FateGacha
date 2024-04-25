@@ -5,7 +5,9 @@ function Home() {
 
   return (
     <>
-    <h2>Kasdasdas</h2>
+    <div>
+      <body>asdasdsa</body>
+    </div>
     </>
   )
 }

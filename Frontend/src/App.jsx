@@ -9,7 +9,6 @@ import StoryBanner from './components/page/StoryBanner.jsx'
 import CE_Database from './components/page/CE_Database.jsx'
 import Servant_Database from './components/page/Servant_Database.jsx'
 
-
 function App() {
   useEffect(() => {
     fetch('http://localhost:8081/fate_servant_data')
@@ -46,6 +45,22 @@ function App() {
     .then(data => console.log(data))
     .catch(err => console.log(err))
   },[])
+  useEffect(() => {
+    fetch('http://localhost:8081/servant_story')
+    .then(console.log("servant story"))
+    .then(res => res.json())
+    .then(data => console.log(data))
+    .catch(err => console.log(err))
+  },[])
+  useEffect(() => {
+    fetch('http://localhost:8081/ce_story')
+    .then(console.log("ce story"))
+    .then(res => res.json())
+    .then(data => console.log(data))
+    .catch(err => console.log(err))
+  },[])
+  
+  
 
   return (
     <>
